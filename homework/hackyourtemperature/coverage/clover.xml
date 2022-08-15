@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1660564806170" clover="3.2.0">
+  <project timestamp="1660564806170" name="All files">
+    <metrics statements="15" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="1" elements="19" coveredelements="17" complexity="0" loc="15" ncloc="15" packages="3" files="4" classes="4"/>
+    <package name="hackyourtemperature">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app.js" path="/Users/hackyourfuture/Desktop/hyf/Node.js-class38/homework/hackyourtemperature/app.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="hackyourtemperature.controllers">
+      <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="1"/>
+      <file name="home.js" path="/Users/hackyourfuture/Desktop/hyf/Node.js-class38/homework/hackyourtemperature/controllers/home.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+      </file>
+      <file name="weather.js" path="/Users/hackyourfuture/Desktop/hyf/Node.js-class38/homework/hackyourtemperature/controllers/weather.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="hackyourtemperature.sources">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="keys.js" path="/Users/hackyourfuture/Desktop/hyf/Node.js-class38/homework/hackyourtemperature/sources/keys.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
